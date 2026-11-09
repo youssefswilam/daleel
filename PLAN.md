@@ -9,7 +9,7 @@ Oct 15, 2026 · @Youssef
 Open the doc, find today's day number, do it, tick the box. Days are numbered 1 to 120 so falling behind never breaks the plan: you just continue from the next unticked day.
 
 - **Daily rhythm.** Study first (about 1.5 hours), then practice (about 1 hour). In most weeks, Days 1–3 are learning and Days 4–5 are building.
-- **Your week.** Plan days are Sunday to Thursday. Saturday is catch-up: if a day runs long, finish it on Saturday rather than skipping it. From 18 December 2026, Friday is for the IBM course. Never skip a build day.
+- **Your week.** Plan days are Sunday to Thursday. Saturday is catch-up: if a day runs long, finish it on Saturday rather than skipping it. From 1 January 2027, Friday is for the IBM course. Never skip a build day.
 - **The capstone: "Daleel".** One personal project you grow through all 24 weeks: a bilingual Arabic/English assistant that answers questions over public documents you choose (for example Saudi tourism rules or Egyptian labor law). It starts as a clean Python project and ends as a deployed, evaluated, monitored AI product. It is separate from your THV work, so it can be fully public.
 - **Write as you go.** Keep a `LEARNING.md` file in the repo with 3–5 lines per day. Six public write-ups (Days 20, 60, 75, 90, 105, 114) turn these notes into portfolio pieces.
 - **One book backbone.** Buy Chip Huyen's *AI Engineering* (O'Reilly). It appears throughout the plan by chapter.
@@ -33,23 +33,23 @@ Seven phases, each ending with something that works and a short write-up.
 
 ## Certificates
 
-One course and one exam: study IBM's RAG and Agentic AI course on Fridays from 18 December 2026, and take the IBM exam on Saturday 20 February 2027.
+One course and one exam: study IBM's RAG and Agentic AI course on Fridays from 1 January 2027, and take the IBM exam on Saturday 13 March 2027.
 
 - **The course** ([IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai), Coursera) is how you prepare. One enrollment, 10 short courses inside it, done in order.
 - **The exam** ([IBM Certified watsonx Generative AI Engineer – Associate](https://credly.com/org/ibm-professional-certification-program/badge/ibm-certified-watsonx-generative-ai-engineer-associ), C1000-185) is the official IBM certification that goes on your CV.
 - You don't need to finish all 10 courses before the exam. Skim lessons that repeat the plan; focus on the watsonx labs and the agentic, multi-agent and MCP courses.
 
-Dates assume Day 1 is Sunday 18 October 2026, plan days are Sunday to Thursday, Friday is the course and Saturday is catch-up.
+**Re-planned on 8 November 2026.** Days 1–2 were done in October; Day 3 starts Sunday 8 November 2026 and the plan continues from there, Sunday to Thursday, with Friday for the course and Saturday for catch-up. Day 20 is Tue 1 Dec 2026 and Day 120 is Tue 20 Apr 2027.
 
 | Date | What |
 | --- | --- |
-| Fri 18 Dec 2026 | First course session (Week 9) |
-| Every Friday until 12 Feb 2027 | One 4–5 hour course session |
-| Sun 31 Jan 2027 | Book the exam (Week 16) |
-| Fri 5 and Fri 12 Feb 2027 | Study IBM's official exam guide; review prompt tuning and model customization in watsonx |
-| Thu 18 Feb 2027 | Plan Day 90, end of Phase 5 |
-| **Sat 20 Feb 2027** | **IBM exam (C1000-185)** |
-| Sat 13 Mar 2027 | Retake, only if needed (end of Phase 6) |
+| Fri 1 Jan 2027 | First course session (Week 9 starts Day 41, Wed 30 Dec) |
+| Every Friday until 19 Feb 2027 | One 4–5 hour course session |
+| Sun 14 Feb 2027 | Book the exam (Day 73) |
+| Fri 26 Feb and Fri 5 Mar 2027 | Study IBM's official exam guide; review prompt tuning and model customization in watsonx |
+| Tue 9 Mar 2027 | Plan Day 90, end of Phase 5 |
+| **Sat 13 Mar 2027** | **IBM exam (C1000-185)** |
+| Sat 3 Apr 2027 | Retake, only if needed (end of Phase 6) |
 
 After the exam, keep the Friday sessions if you also want the Coursera certificate, until all 10 courses are done. Later, in Months 7–8, add one cloud certification (Google Cloud Professional ML Engineer suits your work stack; Microsoft's is now AI-103, since AI-102 retired on 30 June 2026). Never use "exam dump" sites.
 

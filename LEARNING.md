@@ -19,3 +19,11 @@
 - grep is search command in the file 
 - ">" replaces the whole file’s contents
 - ">>" adds to the end of the file and keeps what’s there
+
+## Day 2
+- Git saves snapshots (commits); a branch is just a name pointing to a commit
+- git add chooses what goes in the next commit — I staged only PLAN.md and left the notes for a separate commit
+- Workflow: make a branch → commit → push → open a pull request on GitHub → merge → git pull on main
+- Pushing a branch is not merging it — main only changes after the PR is merged
+- Deleting a branch doesn't delete its commits: I found my lost commit with git reflog and re-created the branch from it
+- A merge commit has two parents (git log --oneline --graph shows it)
